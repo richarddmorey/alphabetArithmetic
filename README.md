@@ -1,5 +1,12 @@
 # Alphabet Arithmetic 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3935999.svg)](https://doi.org/10.5281/zenodo.3935999)
+
+Please cite as:
+
+Morey, R. D., Lu, J., and Rouder, J. N. (2020). Alphabet Arithmetic [dataset]. 
+Retrieved from https://github.com/richarddmorey/alphabetArithmetic. DOI: 10.5281/zenodo.3935999
+
 This repository contains data from a cognitive experiment performed in the mid-2000s. 
 
 For experimental details, an interactive example of the task, and data column descriptions see https://richarddmorey.github.io/alphabetArithmetic/.
