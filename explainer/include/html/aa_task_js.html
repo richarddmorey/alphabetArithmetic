@@ -1,0 +1,13 @@
+<script>
+
+create_stimulus(Math.floor(Math.random()*120));
+
+$("#aa_demo").hover(
+	function(){
+    $(document).on("keypress.aa", setup_trial);
+    },
+  function(){
+  	$(document).off("keypress.aa");
+  }
+)
+</script>

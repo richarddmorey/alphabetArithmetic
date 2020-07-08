@@ -1,0 +1,22 @@
+#aa_demo {
+  background: #00006b;
+  border-radius: 4px;
+  padding: 20px;
+  transition: all 0.2s;
+  margin: 20px auto;
+  width: 640px;
+  height: 480px;
+  line-height: 480px;
+  text-align: center;
+}
+
+#stimulus {
+  color: #ff0;
+  font-size: 18px;
+  font-family: Courier New;
+  font-weight: bold;
+}
+
+#true {
+  display: none;
+}
